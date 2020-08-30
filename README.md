@@ -1,5 +1,5 @@
-<a name="TEL252-Lab1"></a>
-# Laboratorio 1 - TEL252 - UTFSM #
+<a name="TEL252-Labs"></a>
+# Laboratorios - TEL252 - UTFSM #
 
 Este contenido es parte de la asignatura TEL252 de UTFSM. Los laboratorios son un complemento a las lecciones teóricas de introducción a la criptografía. El objetivo es desarrollar códigos que permitan experimentar algunas primitivas criptográficas históricas y modernas utilizando lenguaje Python de manera interactiva.
 
